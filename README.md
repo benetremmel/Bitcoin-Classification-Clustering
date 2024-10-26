@@ -35,8 +35,8 @@ This project sharpened our data analysis and machine learning skills, especially
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BTC-Classification-Clustering.git
-   cd BTC-Classification-Clustering
+   git clone https://github.com/yourusername/Bitcoin-Classification-Clustering.git
+   cd Bitcoin-Classification-Clustering
    ```
 2. Install the required libraries:
    ```bash
